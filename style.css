@@ -1,5 +1,5 @@
 .container {
-    background-color: aqua;
+    background-color: yellow;
     text-align: left;
     padding: 0 600px ;
  } 
@@ -15,10 +15,12 @@
  }
  
  h3 {
+   color: blueviolet;
     font-size: 30px;
     font-style: unset;
  }
  
  h5 {
+   color: aquamarine;
     font-size: 25px;
  }
